@@ -1,0 +1,16 @@
+{
+  "packs": [
+    "Memes.json",
+    "MrSalem.json",
+    "Nocna_Furia.json",
+    "Pepe.json",
+    "Picasso.json",
+    "Pigeons_with_hands.json",
+    "Rick_i_Morty.json",
+    "Riley_and_Kiro.json",
+    "Riposte.json",
+    "Tom_i_Jerry.json",
+    "Tom_i_Jerry_2.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
